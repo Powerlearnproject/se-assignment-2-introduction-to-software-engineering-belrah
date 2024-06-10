@@ -12,9 +12,11 @@ What is software engineering, and how does it differ from traditional programmin
 Software Development Life Cycle (SDLC):
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
+
 Agile vs. Waterfall Models:
 
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
+
 Requirements Engineering:
 
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
